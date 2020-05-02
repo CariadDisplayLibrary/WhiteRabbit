@@ -1,7 +1,7 @@
 #ifndef _WHITERABBIT_H
 #define _WHITERABBIT_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t WhiteRabbit10[];
